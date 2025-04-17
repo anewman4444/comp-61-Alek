@@ -1,9 +1,10 @@
 # COMP-61-2025
 Alek Newman
 
-(https://youtu.be/izRT6_KZCao)
- 
 ## Extra Credit Game Concept & How to:
+### Demo
+(https://youtu.be/izRT6_KZCao)
+
 ### Game Concept:
 The concept of the extra credit game I created “The Epic Flying Game” is a Flappy Bird-like style game. In the game you are a blue ball that can jump in the air. Your purpose is to jump though gaps in oncoming green pipes without hitting the pipes. The gaps happen at random heights on the pipe. 
 
