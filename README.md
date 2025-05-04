@@ -6,9 +6,9 @@ Alek Newman
 
 ## Game Overview:
 ### Game Title: 
-Super Man and the Jaws of Death
+Superman and the Jaws of Death
 ### Game Summary:
-  Super Man and the Jaws of Death is a Flappy Bird-like style game. In the game you play as superman flying through a giant intergalatic monsters mouth and throat. You have to avoid its teeth and viruses. Your purpose is to jump through the gaps until you reach each checkpoint. If you get far enough you can fly into the heart, kill the monster, and save the universe. 
+  Superman and the Jaws of Death is a Flappy Bird-like style game. In the game you play as superman flying through a giant intergalatic monsters mouth and throat. You have to avoid its teeth and viruses. Your purpose is to jump through the gaps until you reach each checkpoint. If you get far enough you can fly into the heart, kill the monster, and save the universe. 
   To play the game you TAP the spacebar on your keyboard to jump through the air. You are only moving forward so all you must do is not hit the white teeth and viruses. If you do hit the teeth, just quit, go back to the main menu, and restart the game. Every time you fly through a gap without hitting something you earn a point. See if you can earn 30 points and get to the heart. Have fun!
 ### Core Gameplay Loop:
 
