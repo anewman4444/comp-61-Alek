@@ -1,12 +1,25 @@
-# COMP-61-2025
+# COMP-61-2025 Game Design README
 Alek Newman
-
-## Extra Credit Game Concept & How to:
-### Demo
+## Demo Video:
 (https://youtu.be/izRT6_KZCao)
+## Setup:
 
-### Game Concept:
-The concept of the extra credit game I created “Super Man and the Jaws of Death” is a Flappy Bird-like style game. In the game you are a blue ball that can jump in the air. Your purpose is to jump though gaps in oncoming green pipes without hitting the pipes. The gaps happen at random heights on the pipe. 
+## Game Overview:
+### Game Title: 
+Super Man and the Jaws of Death
+### Game Summary:
+  Super Man and the Jaws of Death is a Flappy Bird-like style game. In the game you play as superman flying through a giant intergalatic monsters mouth and throat. You have to avoid its teeth and viruses. Your purpose is to jump through the gaps until you reach each checkpoint. If you get far enough you can fly into the heart, kill the monster, and save the universe. 
+  To play the game you TAP the spacebar on your keyboard to jump through the air. You are only moving forward so all you must do is not hit the white teeth and viruses. If you do hit the teeth, just quit, go back to the main menu, and restart the game. Every time you fly through a gap without hitting something you earn a point. See if you can earn 30 points and get to the heart. Have fun!
+### Core Gameplay Loop:
 
-### How to play: 
-To play the game you TAP the spacebar on your keyboard to jump through the air. You are only moving forward so all you must do is not hit the green pipes. If you do hit the green pipes, just press “R” to restart and play as many times again as you want. Every time you jump though a gap without hitting the pipe you earn a point. See how many points you can get! Have fun!
+## Gameplay Mechanics:
+### Controls:
+
+### Core Mechanics:
+
+### Level Progression:
+
+### Win/loss Conditions:
+
+## Story and Narrative:
+The universe is threatened by an intergalatic monster called "Death". He devours planets and is coming straight for Earth. The humans call upon Superman to save them. This is no easy task for Superman however. He must go straight into the belly of the beast and fly through the heart to kill it. Watch out though! There are rows and rows of teeth as well as super viruses waiting for whatever the monster devours. Good Luck Superman! The weight of the universe hangs in the balance. If you do not find a way, no one will. 
