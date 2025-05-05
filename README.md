@@ -29,7 +29,15 @@ Colliding with a pipe results in a game-over screen with options to restart or r
 A GIF near the heart plays when the player reaches it, adding visual excitement.
 ## Gameplay Mechanics:
 ### Controls:
-
+#### Keyboard Input Scheme:
+##### Jump: 
+SPACE key to trigger jumping (for gravity-based games like Flappy Bird or platformers).
+##### Pause: 
+P key to pause the game.
+##### Restart: 
+R key to restart the game after game over.
+##### Main Menu: 
+M key to return to the main menu when the game is over.
 ### Core Mechanics:
 
 ### Level Progression:
