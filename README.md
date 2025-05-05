@@ -1,7 +1,7 @@
 # COMP-61-2025 Game Design README
 Alek Newman
 ## Demo Video:
-(https://youtu.be/FqfmTYEj1Vg)
+(https://youtu.be/Zk1IAjzyCJE)
 ## Setup:
 Go to Extra Credit Game.py for the code and setup. 
 ## Game Overview:
