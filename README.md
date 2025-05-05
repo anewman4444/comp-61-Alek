@@ -11,17 +11,22 @@ Superman and the Jaws of Death
   Superman and the Jaws of Death is a Flappy Bird-like style game. In the game you play as superman flying through a giant intergalatic monsters mouth and throat. You have to avoid its teeth. Your purpose is to jump through the gaps until you reach each checkpoint. If you get far enough you can fly into the heart, kill the monster, and save the universe. 
   To play the game you TAP the spacebar on your keyboard to jump through the air. You are only moving forward so all you must do is not hit the white teeth. If you do hit the teeth, just quit, go back to the main menu, and restart the game. Every time you fly through a gap without hitting something you earn a point. See if you can earn 30 points and get to the heart. Have fun!
 ### Core Gameplay Loop:
-Main Player Actions:
+#### Main Player Actions:
 Jumping: 
 The player presses SPACE to make Superman jump, navigating through pipes (obstacles). The jump is controlled by gravity and lift.
 Collision with Pipes: 
 If the player collides with a pipe, the game ends.
-Feedback Loops:
-Score & Level: Every 5th pipe passed increases the score and level. Leveling up also increases pipe speed for more difficulty.
-Sound Effects: Triggered every 5th and 10th pipe passed as auditory feedback for progress.
-Heart (Win Condition): After reaching a certain score, a heart appears. The player must collide with it to win.
-Game Over: Colliding with a pipe results in a game-over screen with options to restart or return to the main menu.
-GIF Animation: A GIF near the heart plays when the player reaches it, adding visual excitement.
+#### Feedback Loops:
+##### Score & Level: 
+Every 5th pipe passed increases the score and level. Leveling up also increases pipe speed for more difficulty.
+##### Sound Effects: 
+Triggered every 5th and 10th pipe passed as auditory feedback for progress.
+##### Heart (Win Condition): 
+After reaching a certain score, a heart appears. The player must collide with it to win.
+##### Game Over: 
+Colliding with a pipe results in a game-over screen with options to restart or return to the main menu.
+##### GIF Animation: 
+A GIF near the heart plays when the player reaches it, adding visual excitement.
 ## Gameplay Mechanics:
 ### Controls:
 
